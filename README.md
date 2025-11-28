@@ -19,15 +19,19 @@ Considerando análise da variavel do histógrama de todas as variaveis do data f
 <p align="center">
 <img width="1453" height="755" alt="Image" src="https://github.com/user-attachments/assets/1e353a14-1c13-48a0-a1f3-5fdd87d94022" /></a></p>
 
+Na matriz de correlação podemos observar que a variavel assimetria apesenta ausencia de correlação com as demais variaveis
 <p align="center">
 <img width="907" height="787" alt="Image" src="https://github.com/user-attachments/assets/d68f1cc9-f092-4fd6-b82b-7c669b7d3c39" /></a></p>
 
+a seguir quadro das variaveis com nivel de correção >=85%
 <p align="center">
 <img width="397" height="207" alt="Image" src="https://github.com/user-attachments/assets/5fbb9ec0-21a8-4ca2-b6d6-ff8a5cde11f3" /></a></p>
 
+Utilizando os algoritmos KNN, SVM e Random Forrest, identificamos que todos os modelos ficaram acima de 88%, com destaque para o Random Forest com 92%
 <p align="center">
 <img width="343" height="248" alt="Image" src="https://github.com/user-attachments/assets/d441f531-c01d-43ba-83f7-2cd5d5c5322c" /></a></p>
 
+Utilizando o Randomized Search para encontrar os melhores hiperparâmetros para cada modelo, observamos uma queda no desempenho do Random Forest para 87%, o algoritmo atingiu 85% de acuracia
 <p align="center">
 <img width="1107" height="306" alt="Image" src="https://github.com/user-attachments/assets/9d844186-365a-4817-89d6-d0f4ba13e51b" /></a></p>
 
