@@ -15,7 +15,7 @@ Considerando analise gráfica box plot, podemos observar que o trigo Rosa aprese
 <p align="center">
 <img width="1461" height="769" alt="Image" src="https://github.com/user-attachments/assets/61844080-3aa4-4249-bf69-423603c9c13c" /></a></p>
 
-Considerando análise da variavel do histógrama de todas as variaveis do data frame, podemos observar que a áviavel "compacidade" apresenta maior sobreposição de medias 
+Considerando análise dos histógramas, podemos observar que a áviavel "compacidade" apresenta maior sobreposição de medias, este comportamento demonstra mais similaridade nas medições observadas 
 <p align="center">
 <img width="1453" height="755" alt="Image" src="https://github.com/user-attachments/assets/1e353a14-1c13-48a0-a1f3-5fdd87d94022" /></a></p>
 
